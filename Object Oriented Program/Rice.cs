@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace Object_Oriented_Program
 {
-    internal class InventoryModel
+    internal class Rice
     {
-        public string name { get; set; }
-
-        public int price { get; set; }
-
-        public int weight { get; set; }
+        public string Name { get; set; }
+        public double Weight { get; set; }
+        public double PricePerKg { get; set; }
     }
 }

@@ -1,21 +1,38 @@
-
-  [
+{
+  "RiceList": [
     {
-      "name": "Rice",
-      "price": "100",
-      "weight": "10"
+      "Name": "Basmati",
+      "Weight": 20.0,
+      "PricePerKg": 60.0
     },
     {
-      "name": "Wheat",
-      "price": "120",
-      "weight": "20"
-
-
+      "Name": "Brown",
+      "Weight": 20.0,
+      "PricePerKg": 120.0
+    }
+  ],
+  "WheatList": [
+    {
+      "Name": "Normal",
+      "Weight": 20.0,
+      "PricePerKg": 30.0
     },
     {
-      "name": "Pulses",
-      "price": "170",
-      "weight": "10"
-
+      "Name": "Chakki",
+      "Weight": 20.0,
+      "PricePerKg": 50.0
+    }
+  ],
+  "PulsesList": [
+    {
+      "Name": "Beans",
+      "Weight": 20.0,
+      "PricePerKg": 100.0
+    },
+    {
+      "Name": "Peas",
+      "Weight": 20.0,
+      "PricePerKg": 150.0
     }
   ]
+}
